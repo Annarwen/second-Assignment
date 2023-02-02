@@ -1,0 +1,244 @@
+
+
+body {
+background-color: rgb(0, 0, 0);
+}
+
+a {
+    color: rgb(176, 171, 171);
+}
+
+
+h2 {
+    display: inline;
+    color: rgb(161, 4, 4);
+   
+}
+
+h1 {
+    display: inline;
+    color: rgb(143, 137, 137);
+   
+}
+.Ingmar1 {
+    margin-right: 180px;
+}
+ 
+.Ingmar2 {
+    margin-right: 180px;
+}
+li {
+
+   display: inline;
+   
+}
+.homee {
+    margin-top: 100px;
+    margin-left: 530px;
+    margin-right: 60px;
+    
+}
+
+.aboutt {
+    margin-top: 100px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.contact {
+    margin-top: 100px;
+    margin-left: 60px;
+    margin-right: 380px;
+}
+img {
+display: inline;
+    width: 300px;
+    height: 359px;
+    top: 264px;
+    left: 562.46px;
+    margin-top: 100px;
+   border: 3px solid rgb(160, 156, 156);
+
+}
+
+.Stalker1 {
+    margin-left: 210px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: initial;
+    font-size: large;
+}
+.Stalker {
+    margin-left: 180px;
+}
+.Stalker2 {
+    margin-left: 245px;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: initial;
+
+}
+
+
+
+.Machinist {
+    margin-left: 91.6px;
+    margin-right: 91.6px;
+}
+
+.Seal {
+    margin-right: 180px;
+}
+
+.Machin1 {
+
+    margin-right: 91.6px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: initial;
+    font-size: large;
+}
+.Machin2 {
+    margin-left: 184px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: initial;
+   
+}
+.Machin1 {
+    margin-left: 160px;
+}
+.Ingmar2 {
+    margin-left: 130px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: initial;
+}
+.Ingmar1 {
+    margin-left: 75px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: initial;
+    font-size: large;
+}
+header {
+    margin-top: 50px;
+}
+.about1 {
+    margin-left: 678px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+ 
+  
+}
+.contact1 {
+    margin-left: 665px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    margin-top: 600px;
+}
+.about2 {
+    color: rgb(171, 174, 176);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: inherit;
+    margin-left: 480px;
+    margin-right: 450px;
+    margin-top: 90px;
+}
+.about3 {
+    color: rgb(171, 174, 176);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: inherit;
+    margin-left: 480px;
+    margin-right: 480px;
+    margin-top: 30px;
+
+}
+.Number1 {
+    color: rgb(171, 174, 176);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: inherit;
+    margin-left: 660px;
+    margin-top: 100px;
+
+}
+.Mail1 {
+    color: rgb(171, 174, 176);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: inherit;
+    margin-left: 660px;
+
+}
+.Adress1 {
+    color: rgb(171, 174, 176);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: inherit;
+    margin-left: 660px;
+}
+.about {
+    color: rgb(171, 174, 176);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: x-large;
+    font-weight: inherit;
+    margin-left: 670px;
+    margin-top: 70px;
+    
+}
+.HOMEP {
+    color: rgb(171, 174, 176);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: x-large;
+    font-weight: inherit;
+    margin-left: 669px;
+    margin-right: 480px;
+    margin-top: 70px;
+}
+.Andreibox {
+    color: whitesmoke;
+}
+.Andreibox2 {
+    color: whitesmoke;
+}
+.labelcolor {
+    color: whitesmoke;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin-left: 120px;
+    width: 410px;
+    background: black;
+    padding: 20px;
+    box-sizing: 0 0spx rgb(0,0,0,0.5);
+  
+}
+.container p{
+    line-height: 1.4;
+    text-align: justify;
+}
+#check{
+    display: none;
+
+}
+.content{
+    display: none;
+}
+label{
+    display: inline-block;
+    margin-top: 15px;
+    color:rgb(176, 169, 169) ;
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: 600;
+
+
+}
+#check:checked ~ .content{
+    display: block;
+
+}
+
+
+
